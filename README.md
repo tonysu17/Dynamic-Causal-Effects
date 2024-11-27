@@ -58,7 +58,7 @@ bash
 Copy code
 pip install -r requirements.txt
 
-Running the Project
+## **Running the Project**
 Preprocess the data:
 
 Run the data_preprocessing.ipynb notebook to scale and split time-series data.
@@ -68,22 +68,22 @@ Use the model_training.ipynb notebook to train the model on pre-treatment data.
 Perform Counterfactual Analysis:
 
 Execute the counterfactual_analysis.ipynb notebook to estimate counterfactual periods and compute causal effects.
-Results
-Model Accuracy:
 
+## **Results**
+**Model Accuracy**:
 Achieved a low mean squared error of 0.000210 on normalized training data.
-Causal Effects:
 
+**Causal Effects**:
 Point-wise and cumulative effects quantified the long-term impact of the 2008 financial crisis on Dutch GDP.
 Uncertainty Intervals:
 
 Prediction intervals demonstrated high reliability (PICP = 1), with narrow confidence bounds enhancing precision.
 
-Collaborators
+## **Collaborators**
 Tony Su: University College London (UCL)
 Raad Khraishi: UCL Institute of Finance and Technology, Data AI Innovation Lead at NatWest
 Acknowledgements
 This work builds on foundational studies in causal inference, Bayesian deep learning, and interrupted time-series analysis, with applications inspired by macroeconomic policy evaluation.
 
-License
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
