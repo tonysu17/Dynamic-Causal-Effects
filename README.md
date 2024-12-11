@@ -1,6 +1,6 @@
 # Estimating Dynamic Causal Effects Using an Approximated Bayesian LSTM
 
-This repository contains the code and methodologies developed in collaboration with **Tony Su** and **Raad Khraishi** (UCL Institute of Finance and Technology, and Data AI Innovation Lead at NatWest). The project leverages an **approximated Bayesian Long Short-Term Memory (LSTM)** network to estimate dynamic causal effects of policies or shocks over time, with a focus on counterfactual scenario analysis and uncertainty quantification.
+This repository contains the code and methodologies developed in collaboration with **Tony Su** and **Raad Khraishi** (University College London, and Data AI Innovation Lead at NatWest). The project leverages an **approximated Bayesian Long Short-Term Memory (LSTM)** network to estimate dynamic causal effects of policies or shocks over time, with a focus on counterfactual scenario analysis and uncertainty quantification.
 
 ---
 
